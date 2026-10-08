@@ -22,9 +22,9 @@ media = "1.8.0"
 media3 = "1.11.1"
 room = "2.8.5"
 #Fossify
-commons = "6.1.6"
+commons = "7.1.0"
 #Gradle
-gradlePlugins-agp = "9.4.0"
+gradlePlugins-agp = "9.4.1"
 #build
 app-build-compileSDKVersion = "36"
 app-build-targetSDK = "36"
